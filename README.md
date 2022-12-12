@@ -23,10 +23,3 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Logo Github">
     
 </p>
-
-<p align="center">
-    <strong>Now some stats:</strong>
-    <br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Oxbian&show_icons=true&theme=gotham">
-</p>
