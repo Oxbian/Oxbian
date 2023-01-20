@@ -6,7 +6,7 @@
 
 ## <p align="center">Hey 👋🏻, </p>
 <p align="center">
-    I'm a French 🇫🇷 college students in CS 👨‍💻,<br>
+    I'm a French 🇫🇷 college student in CS 👨‍💻,<br>
     I love 🇨, anime / manga and Cordon Bleu<br>
 </p>
 
