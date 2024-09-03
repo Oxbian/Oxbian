@@ -11,8 +11,3 @@
     📖 Love learning new things and sharing my learnings in my blog, <br>
     ✍️ On my free time I write a blog about good pratices in differents domains. <br>
 </p>
-
----
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=oxbian&api_domain=wakapi.arka.rocks&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compac">
-</div>
